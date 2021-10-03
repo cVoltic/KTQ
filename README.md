@@ -1,2 +1,0 @@
-# KTQ
-KTQ Dash Components
