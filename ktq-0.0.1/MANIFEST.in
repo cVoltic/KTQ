@@ -1,0 +1,11 @@
+include ktq/ktq.min.js
+include ktq/ktq.min.js.map
+include ktq/async-*.js
+include ktq/async-*.js.map
+include ktq/*-shared.js
+include ktq/*-shared.js.map
+include ktq/metadata.json
+include ktq/package-info.json
+include README.md
+include LICENSE
+include package.json
